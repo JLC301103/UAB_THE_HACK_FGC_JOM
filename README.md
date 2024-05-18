@@ -1,6 +1,7 @@
 # UAB_THE_HACK_FGC_JOM
 Jordi Longaron, Óscar Arrocha, Mustapha El Aichouni
 Google Doc:https://docs.google.com/document/d/1Ll9R5XAYoTHUCwEV8KzYTdw_3HK_IC27BYRpO9AhbOc/edit?usp=sharing
+Github inspiration Repo 1: https://github.com/Neilus03/hackupc-2024/blob/main/web_app%2Fyolo.py 
 ## Introduction
 ## Abstract
 ## Key words
