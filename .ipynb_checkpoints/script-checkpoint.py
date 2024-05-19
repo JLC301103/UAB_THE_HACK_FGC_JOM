@@ -64,7 +64,7 @@ while True:
     # Announce detected objects using TTS if there are new detections
     new_objects = detected_objects - previous_objects
     if new_objects:
-        announcement = "Detected: " + ", ".join(new_objects)
+        announcement = "Detectant: " + ", ".join(new_objects)
         tts_engine.say(announcement)
         tts_engine.runAndWait()
         previous_objects = detected_objects
