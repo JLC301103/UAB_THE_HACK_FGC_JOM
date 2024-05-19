@@ -19,14 +19,10 @@ We've been made aware that there are QR codes that give directions of where to g
 ### What similar devices have worked or not and why?
 Due to the circumstances of this project, we haven't been able to contact any blind people or associations to ask them what other devices they use or what other  tools they use to navigate in their daily life other than the QR.
 ## Methods
-We employed YOLOv8 along with TTS.
-### What have we done
-
-### Literature review
+We employed YOLOv8 along with TTS. We fine-tunned our model in order to be able to detect the ticket machines with beter accuracy and from closer. 
 
 ### How to employ it
-
-### Other participatory approaches used...
+Up until now, for testing we've been using IP Webcam in order to connect our phones to a code.
 
 ## Device
 
@@ -34,15 +30,21 @@ We employed YOLOv8 along with TTS.
 
 #### A) Technical data sheet
 
-#### B) Network of actors 
-
+#### B) Actors involved
+- Blind people and their relatives, since they are the ones most concerned for their (and their own) safety
+- FGC staff: Since they are the ones in site to resolve any issues, this project also involves them
+- Blind associaitons: We believe that they can benefit from this project, especially if they can rework it for their needs.  
 ## Conclusion
-
-### Small introduction as a resume
-
+### Opinion
+We believe that this project of ours has been fairly successful considering the time constraints and conditions of the project. We have managed to...:
+- 
 ### Precautions in deployment
-
-### Futures and ways of starting for your device
+As much as we believe that this project has been successful, it hasn't been tested on site, we are especially concerned on how it will perform in an open area or a really frequented area. 
+### Futures ideas
+There are quite a few features we would have liked to implement in due time: 
+- A way to connect with the intercom by looking up to the screen so that they read out loud the train timings
+- A way to guide them better within the station, such as where they must go to reach a line in particular, or where does the train for a destination arrive within a station, possibly through a color code and when the camera detects that color they tell them which way that color leads to.
+- A better way to detect train gates and if they are open or not. 
 
 ### Learnings from the process
 
