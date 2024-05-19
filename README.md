@@ -17,9 +17,9 @@ It aims to alleviate the problems that the blind regularly face when using publi
 ### What has done in the field before? 
 We've been made aware that there are QR codes that give directions of where to go from where the QR is placed, but this, however, is a stationary solution to a mobile agent. We whole heartedly believe that a tool that they can bring and actively adapts to their movements can be extremely helpful to this plight, and thus this project came to be. 
 ### What similar devices have worked or not and why?
-Due to the circumstances of this project, we haven't been able to contact any blind people 
+Due to the circumstances of this project, we haven't been able to contact any blind people or associations to ask them what other devices they use or what other  tools they use to navigate in their daily life other than the QR.
 ## Methods
-
+We employed YOLOv8 along with TTS.
 ### What have we done
 
 ### Literature review
